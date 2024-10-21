@@ -2,6 +2,9 @@
 
 Fetch a list of Marvel characters and the number of comics in which they have appeared. Download the list as a JSON or CSV file.
 
+![diagram](https://github.com/user-attachments/assets/932f923f-8732-4c23-a13f-a28bee8669c6)
+
+
 ## Prerequisites
 
 - Python 3.x installed on your machine.
